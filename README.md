@@ -4,4 +4,4 @@ ls
 
 cd Nzri
 
-python nzri.py
+python Nzri.py
